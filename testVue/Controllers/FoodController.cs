@@ -149,7 +149,9 @@ namespace testVue.Controllers
                 ImageUrl = request.ImageUrl,
                 Unit = request.Unit ?? "phần", // Nếu Unit không có, mặc định là "phần"
                 CategoryId = request.CategoryId,
-                Status = "Có sẵn" // Mặc định là "available"
+                Status = "Có sẵn", // Mặc định là "available"
+                CreateDate = DateTime.Now,
+                UpdateDate = DateTime.Now,
             };
 
             try
@@ -170,6 +172,8 @@ namespace testVue.Controllers
                     priceListed = foodItem.PriceListed,
                     status = foodItem.Status,
                     unit = foodItem.Unit,
+                    createDate = foodItem.CreateDate,
+                    updateDate = foodItem.UpdateDate,
                 });
             }
             catch (Exception ex)
@@ -241,6 +245,7 @@ namespace testVue.Controllers
             existingFoodItem.CategoryId = updatedFoodItem.CategoryId ?? existingFoodItem.CategoryId;
             existingFoodItem.Status = updatedFoodItem.Status ?? existingFoodItem.Status;
             existingFoodItem.ImageUrl = updatedFoodItem.ImageUrl ?? existingFoodItem.ImageUrl;
+            existingFoodItem.UpdateDate = DateTime.Now;
 
             try
             {
@@ -259,6 +264,7 @@ namespace testVue.Controllers
                         existingFoodItem.Unit,
                         existingFoodItem.CategoryId,
                         existingFoodItem.Status,
+                        existingFoodItem.UpdateDate,
                     }
                 });
             }

@@ -5709,11 +5709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\testVue.csproj",
+      "projectUniqueName": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\testVue.csproj",
       "projectName": "testVue",
-      "projectPath": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\testVue.csproj",
+      "projectPath": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\testVue.csproj",
       "packagesPath": "C:\\Users\\MSI PHONG VU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\obj\\",
+      "outputPath": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI PHONG VU\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,62 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\",
+  "WorkspaceRootPath": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|c:\\users\\msi phong vu\\desktop\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|c:\\users\\msi phong vu\\desktop\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|c:\\users\\msi phong vu\\desktop\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|c:\\users\\msi phong vu\\desktop\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|c:\\users\\msi phong vu\\desktop\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|c:\\users\\msi phong vu\\desktop\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|c:\\users\\msi phong vu\\desktop\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\datas\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\migrations\\20241129062042_add table material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\migrations\\20241129062042_add table material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\datas\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\datas\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|c:\\users\\msi phong vu\\desktop\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\requestfooditemadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\requestfooditemadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\models\\requestfooditemadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|c:\\users\\msi phong vu\\desktop\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\requestupdatefooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\requestupdatefooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\models\\requestupdatefooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|c:\\users\\msi phong vu\\desktop\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|c:\\users\\msi phong vu\\desktop\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\orderitemadditionalfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\orderitemadditionalfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\models\\orderitemadditionalfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|c:\\users\\msi phong vu\\desktop\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|c:\\users\\msi phong vu\\desktop\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|c:\\users\\msi phong vu\\desktop\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\additionalfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\models\\additionalfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\models\\additionalfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|d:\\my_project_cv\\phanmemquanly_cuahanganuong\\protestvues\\testvue\\migrations\\20250113160835_updatecolumnfooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C966EDD-A705-4393-8E80-7463EBE43B63}|testVue\\testVue.csproj|solutionrelative:testvue\\migrations\\20250113160835_updatecolumnfooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,51 +78,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "testVue\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Controllers\\UserController.cs",
-              "RelativeToolTip": "testVue\\Controllers\\UserController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAyAAAA",
+              "DocumentIndex": 16,
+              "Title": "20250113160835_UpdateColumnFoodItem.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Migrations\\20250113160835_UpdateColumnFoodItem.cs",
+              "RelativeDocumentMoniker": "testVue\\Migrations\\20250113160835_UpdateColumnFoodItem.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Migrations\\20250113160835_UpdateColumnFoodItem.cs",
+              "RelativeToolTip": "testVue\\Migrations\\20250113160835_UpdateColumnFoodItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T16:09:48.486Z"
+              "WhenOpened": "2025-01-13T16:08:35.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241129062042_Add table Material.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Migrations\\20241129062042_Add table Material.cs",
+              "RelativeDocumentMoniker": "testVue\\Migrations\\20241129062042_Add table Material.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Migrations\\20241129062042_Add table Material.cs",
+              "RelativeToolTip": "testVue\\Migrations\\20241129062042_Add table Material.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:02:22.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "testVue\\Controllers\\FoodController.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "testVue\\Controllers\\FoodController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwB8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:38:01.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FoodController.cs",
-              "DocumentMoniker": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Controllers\\FoodController.cs",
-              "RelativeDocumentMoniker": "testVue\\Controllers\\FoodController.cs",
-              "ToolTip": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Controllers\\FoodController.cs",
-              "RelativeToolTip": "testVue\\Controllers\\FoodController.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAvwEcAAAAmAAAA",
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\FoodItem.cs",
+              "RelativeDocumentMoniker": "testVue\\Models\\FoodItem.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\FoodItem.cs",
+              "RelativeToolTip": "testVue\\Models\\FoodItem.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBEAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T02:38:01.724Z"
+              "WhenOpened": "2024-11-27T05:23:58.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "testVue\\Models\\Order.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\Order.cs",
+              "RelativeToolTip": "testVue\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:49:17.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Datas\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Datas\\AppDbContext.cs",
               "RelativeDocumentMoniker": "testVue\\Datas\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Datas\\AppDbContext.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Datas\\AppDbContext.cs",
               "RelativeToolTip": "testVue\\Datas\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T02:51:01.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\appsettings.json",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\appsettings.json",
               "RelativeDocumentMoniker": "testVue\\appsettings.json",
-              "ToolTip": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\appsettings.json",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\appsettings.json",
               "RelativeToolTip": "testVue\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -118,11 +167,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Program.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Program.cs",
               "RelativeDocumentMoniker": "testVue\\Program.cs",
-              "ToolTip": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Program.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Program.cs",
               "RelativeToolTip": "testVue\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,24 +179,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ReportController.cs",
-              "DocumentMoniker": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Controllers\\ReportController.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Controllers\\ReportController.cs",
               "RelativeDocumentMoniker": "testVue\\Controllers\\ReportController.cs",
-              "ToolTip": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Controllers\\ReportController.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Controllers\\ReportController.cs",
               "RelativeToolTip": "testVue\\Controllers\\ReportController.cs",
-              "ViewState": "AQIAAH0BAAAAAAAAAAAiwIkBAAAPAAAA",
+              "ViewState": "AQIAAIsBAAAAAAAAAAAmwLcBAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T02:38:05.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T02:38:05.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "testVue\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Controllers\\UserController.cs",
+              "RelativeToolTip": "testVue\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:09:48.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "RequestFoodItemAdd.cs",
-              "DocumentMoniker": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\RequestFoodItemAdd.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\RequestFoodItemAdd.cs",
               "RelativeDocumentMoniker": "testVue\\Models\\RequestFoodItemAdd.cs",
-              "ToolTip": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\RequestFoodItemAdd.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\RequestFoodItemAdd.cs",
               "RelativeToolTip": "testVue\\Models\\RequestFoodItemAdd.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,23 +215,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FoodItem.cs",
-              "DocumentMoniker": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\FoodItem.cs",
-              "RelativeDocumentMoniker": "testVue\\Models\\FoodItem.cs",
-              "ToolTip": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\FoodItem.cs",
-              "RelativeToolTip": "testVue\\Models\\FoodItem.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T05:23:58.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "AdditionalFood.cs",
-              "DocumentMoniker": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\AdditionalFood.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\AdditionalFood.cs",
               "RelativeDocumentMoniker": "testVue\\Models\\AdditionalFood.cs",
-              "ToolTip": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\AdditionalFood.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\AdditionalFood.cs",
               "RelativeToolTip": "testVue\\Models\\AdditionalFood.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,11 +227,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "RequestUpdateFoodItem.cs",
-              "DocumentMoniker": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\RequestUpdateFoodItem.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\RequestUpdateFoodItem.cs",
               "RelativeDocumentMoniker": "testVue\\Models\\RequestUpdateFoodItem.cs",
-              "ToolTip": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\RequestUpdateFoodItem.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\RequestUpdateFoodItem.cs",
               "RelativeToolTip": "testVue\\Models\\RequestUpdateFoodItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,11 +239,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\User.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\User.cs",
               "RelativeDocumentMoniker": "testVue\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\User.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\User.cs",
               "RelativeToolTip": "testVue\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,11 +251,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Material.cs",
-              "DocumentMoniker": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\Material.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\Material.cs",
               "RelativeDocumentMoniker": "testVue\\Models\\Material.cs",
-              "ToolTip": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\Material.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\Material.cs",
               "RelativeToolTip": "testVue\\Models\\Material.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAwwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,11 +263,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\OrderItem.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "testVue\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\OrderItem.cs",
               "RelativeToolTip": "testVue\\Models\\OrderItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -227,11 +275,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "OrderItemAdditionalFood.cs",
-              "DocumentMoniker": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\OrderItemAdditionalFood.cs",
+              "DocumentMoniker": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\OrderItemAdditionalFood.cs",
               "RelativeDocumentMoniker": "testVue\\Models\\OrderItemAdditionalFood.cs",
-              "ToolTip": "C:\\Users\\MSI PHONG VU\\Desktop\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\OrderItemAdditionalFood.cs",
+              "ToolTip": "D:\\MY_PROJECT_CV\\PhanMemQuanLy_CuaHangAnUong\\proTestVues\\testVue\\Models\\OrderItemAdditionalFood.cs",
               "RelativeToolTip": "testVue\\Models\\OrderItemAdditionalFood.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
